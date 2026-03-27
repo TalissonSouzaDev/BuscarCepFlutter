@@ -1,17 +1,16 @@
 # buscarcep
 
-A new Flutter project.
+Um aplicativo Flutter para buscar CEPs (códigos postais) do Brasil.  
 
-## Getting Started
+O projeto permite buscar CEP, exibir informações de endereço e roda tanto no **navegador (web)** quanto em **Android**.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Pré-requisitos
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Antes de rodar o projeto, você precisa ter instalado:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Flutter** (stable, versão 3.41.5 ou superior)  
+   Teste com:  
+   ```powershell
+   flutter --version
